@@ -1,0 +1,1 @@
+# CoronaSDK-SafeZone-Background
